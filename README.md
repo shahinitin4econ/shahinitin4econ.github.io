@@ -33,12 +33,7 @@ I received my Ph.D. from Indian Institute of Management Indore in 2026.
 <a href="#">Google Scholar</a>
 </p>
 
-<p>
-<!-- Social Icons -->
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="24"></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="24"></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24"></a>
-</p>
+
 
 </div>
 </div>
