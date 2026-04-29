@@ -7,9 +7,9 @@ show_excerpts: false
 
 # Navigation links (top right)
 header_pages:
-  - about.md
-  - research.md
-  - teaching.md
+  - About.md
+  - Research.md
+  - Teaching.md
 
 # Optional: cleaner URLs
 permalink: pretty
