@@ -1,7 +1,4 @@
----
-layout: default
-title: ""
----
+
 
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
