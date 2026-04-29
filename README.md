@@ -7,7 +7,7 @@ title: ""
 
 <!-- LEFT: Profile Image -->
 <div style="flex: 1; min-width: 250px;">
-  <img src="profile.jpg" alt="Profile Photo" style="width:100%; border-radius: 6px;">
+  <img src="profile.jpeg" alt="Profile Photo" style="width:100%; border-radius: 6px;">
 </div>
 
 <!-- RIGHT: Content -->
