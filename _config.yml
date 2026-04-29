@@ -1,1 +1,15 @@
+title: "Nitin Shahi"
+description: ""
 theme: minima
+
+# Remove duplicate headings
+show_excerpts: false
+
+# Navigation links (top right)
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
+
+# Optional: cleaner URLs
+permalink: pretty
