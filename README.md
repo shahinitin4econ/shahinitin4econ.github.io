@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Nitin Shahi
-
-Welcome to my personal website!
+# Nitin Shahi
 
 # I am 
 
