@@ -14,20 +14,20 @@ title: ""
 <div style="flex: 2; min-width: 300px;">
 
 <p>
-I am an Assistant Professor of Economic Analysis and Policy at UofT Scarborough and Rotman School of Management at the <a href="#">University of Toronto</a>.
+I am an  of  at  at the .
 </p>
 
 <p>
-I received my Ph.D. in 2020. Prior to joining in 2021, I was a postdoctoral scholar.
+I received my Ph.D. from Indian Institute of Management Indore in 2026.
 </p>
 
 <p>
-<strong>Research Areas:</strong> Urban Economics, Industrial Organization, Economic History
+<strong>Research Areas:</strong> Industrial Organization, Innovation
 </p>
 
 <h2>CV</h2>
 
-<p><strong>Email:</strong> your.email@example.com</p>
+<p><strong>Email:</strong> shahinitin4phd@gmail.com</p>
 
 <p>
 <a href="#">Google Scholar</a>
